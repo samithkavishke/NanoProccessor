@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asus/Desktop/NANO_UPLOADED/NanoProcessor.sim/sim_1/synth/func/xsim/System_sim_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NanoProcessor
+INFO: [VRFC 10-311] analyzing module REG_3_BIT
+INFO: [VRFC 10-311] analyzing module REG_4_BIT
+INFO: [VRFC 10-311] analyzing module REG_4_BIT_0
+INFO: [VRFC 10-311] analyzing module REG_4_BIT_1
+INFO: [VRFC 10-311] analyzing module REG_4_BIT_2
+INFO: [VRFC 10-311] analyzing module RegisterBank
+INFO: [VRFC 10-311] analyzing module SlowClock
+INFO: [VRFC 10-311] analyzing module System
+INFO: [VRFC 10-311] analyzing module glbl

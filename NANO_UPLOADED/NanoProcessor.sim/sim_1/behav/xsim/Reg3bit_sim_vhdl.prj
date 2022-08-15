@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../NanoProcessor.srcs/sources_1/new/D_FF.vhd" \
+"../../../../NanoProcessor.srcs/sources_1/new/Reg3bit.vhd" \
+"../../../../NanoProcessor.srcs/sim_1/new/Reg3bit_sim.vhd" \
+
+# Do not sort compile order
+nosort
